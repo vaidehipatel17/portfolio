@@ -26,7 +26,7 @@ export const products = [
   },
   {
     id: 6,
-    img: "",
+    img: "https://i.postimg.cc/m2w2tbzT/Screenshot-86.png",
     link: "",
   },
 ];
